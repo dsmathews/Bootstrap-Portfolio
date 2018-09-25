@@ -1,0 +1,39 @@
+body {
+    background-image: url("assets/background.png");
+}
+
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li {
+    color: silver;
+}
+
+footer {
+    height: 70px;
+    
+}
+
+#card1 {
+    background-image: url("assets/portfolio1.jpg")
+}
+
+#card2 {
+    background-image: url("assets/portfolio2.jpg")
+}
+
+#card3 {
+    background-image: url("assets/portfolio3.jpg")
+}
+#card4 {
+    background-image: url("assets/portfolio4.jpg")
+}
+#card5 {
+    background-image: url("assets/portfolio5.jpg")
+}
+
+#headshot {
+    height: 200px;
+    width: 200px;
+}
